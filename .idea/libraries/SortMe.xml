@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SortMe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SortMe_jar/SortMe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

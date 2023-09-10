@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="452b3440-779c-407f-9a04-a1e600f5f676" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/SortMe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting Visualization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/frames/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/frames/MyPanel$ChangeHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/frames/MyPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/frames/Visualiser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/setup/Implementation$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/setup/Implementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/setup/Sorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/setup/State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/BubbleSort$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/InsertionSort$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/MergeSort$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/QuickSort$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/SelectionSort$MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Sorting Visualization/sorting/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SortMe_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortMe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualiser.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/frames/MyPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/frames/MyPanel$ChangeHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/frames/MyPanel$ChangeHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/frames/MyPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/frames/MyPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/frames/Visualiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/frames/Visualiser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/setup/Implementation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/setup/Implementation$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/setup/Implementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/setup/Implementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/BubbleSort$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/BubbleSort$MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/InsertionSort$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/InsertionSort$MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/MergeSort$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/MergeSort$MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/QuickSort$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/QuickSort$MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/SelectionSort$MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/SelectionSort$MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SortMe/sorting/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortMe/sorting/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/MyPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/MyPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/Visualiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/Visualiser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="ProjectId" id="2UrtyrLKKYibGgn3Ja5oW3ejQd7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Visualiser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frames.Visualiser" />
+      <module name="Sorting Visualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frames.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Visualiser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452b3440-779c-407f-9a04-a1e600f5f676" name="Changes" comment="" />
+      <created>1693709785583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693709785583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
